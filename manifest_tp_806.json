@@ -96,6 +96,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -141,6 +149,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -186,6 +202,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -231,6 +255,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -276,6 +308,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -321,6 +361,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -366,6 +414,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -411,6 +467,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -456,6 +520,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -501,6 +573,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -546,6 +626,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -591,6 +679,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -636,6 +732,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -681,6 +785,14 @@
               "value": [
                 "und"
               ]
+            },
+            {
+              "label": "attribution",
+              "value": "Images Copyright Biblioteca Apostolica Vaticana"
+            },
+            {
+              "label": "logo",
+              "value": "https://digi.vatlib.it/resource/img/i/DVL_logo.jpg"
             }
           ],
           "images": [
@@ -980,6 +1092,30 @@
                   "@language": "zh"
                 }
               ]
+            },
+            {
+              "label": "attribution",
+              "value": [
+                {
+                  "@value": "Bayerische Staatsbibliothek",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Bayerische Staatsbibliothek",
+                  "@language": "de"
+                },
+                {
+                  "@value": "Bayerische Staatsbibliothek",
+                  "@language": "zh"
+                }
+              ]
+            },
+            {
+              "label": "logo",
+              "value": {
+                "format": "image/png",
+                "@id": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png"
+              }
             }
           ],
           "images": [
@@ -1279,6 +1415,30 @@
                   "@language": "zh"
                 }
               ]
+            },
+            {
+              "label": "attribution",
+              "value": [
+                {
+                  "@value": "Bayerische Staatsbibliothek",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Bayerische Staatsbibliothek",
+                  "@language": "de"
+                },
+                {
+                  "@value": "Bayerische Staatsbibliothek",
+                  "@language": "zh"
+                }
+              ]
+            },
+            {
+              "label": "logo",
+              "value": {
+                "format": "image/png",
+                "@id": "https://api.digitale-sammlungen.de/iiif/images/bsb_logo.png"
+              }
             }
           ],
           "images": [
