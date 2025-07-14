@@ -17,7 +17,6 @@
         "https://e-editiones.org/range/r6"
       ]
     },
-    [
       {
         "@id": "https://e-editiones.org/range/r1",
         "@type": "sc:Range",
@@ -76,7 +75,6 @@
           "https://e-editiones.org/canvas/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00869"
         ]
       }
-    ]
   ],
   "sequences": [
     {
