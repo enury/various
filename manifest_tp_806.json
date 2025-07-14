@@ -17,64 +17,64 @@
         "https://e-editiones.org/range/r6"
       ]
     },
-      {
-        "@id": "https://e-editiones.org/range/r1",
-        "@type": "sc:Range",
-        "label": "Vaticanus Latinus 2797",
-        "canvases": [
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0008_fa_0001v.jp2",
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0009_fa_0002r.jp2"
-        ]
-      },
-      {
-        "@id": "https://e-editiones.org/range/r2",
-        "@type": "sc:Range",
-        "label": "Vaticanus Latinus 2798",
-        "canvases": [
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0140_fa_0064v.jp2",
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0176_fa_0081r.jp2",
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0211_fa_0098v.jp2",
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0212_fa_0099r.jp2",
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0246_fa_0116r.jp2",
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0247_fa_0116v.jp2",
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0291_fa_0138v.jp2"
-        ]
-      },
-      {
-        "@id": "https://e-editiones.org/range/r3",
-        "@type": "sc:Range",
-        "label": "Vaticanus Latinus 2804",
-        "canvases": [
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2804/Vat.lat.2804_0008_fa_0002r.jp2"
-        ]
-      },
-      {
-        "@id": "https://e-editiones.org/range/r4",
-        "@type": "sc:Range",
-        "label": "Barb. Lat. 37",
-        "canvases": [
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0023_fr_0008r.jp2",
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0037_fr_0015r.jp2"
-        ]
-      },
-      {
-        "@id": "https://e-editiones.org/range/r5",
-        "@type": "sc:Range",
-        "label": "Barb. Lat. 66",
-        "canvases": [
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0009_fa_0001r.jp2",
-          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0010_fa_0001v.jp2"
-        ]
-      },
-      {
-        "@id": "https://e-editiones.org/range/r6",
-        "@type": "sc:Range",
-        "label": "Barth",
-        "canvases": [
-          "https://e-editiones.org/canvas/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00868",
-          "https://e-editiones.org/canvas/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00869"
-        ]
-      }
+    {
+      "@id": "https://e-editiones.org/range/r1",
+      "@type": "sc:Range",
+      "label": "Vaticanus Latinus 2797",
+      "canvases": [
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0008_fa_0001v.jp2",
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0009_fa_0002r.jp2"
+      ]
+    },
+    {
+      "@id": "https://e-editiones.org/range/r2",
+      "@type": "sc:Range",
+      "label": "Vaticanus Latinus 2798",
+      "canvases": [
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0140_fa_0064v.jp2",
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0176_fa_0081r.jp2",
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0211_fa_0098v.jp2",
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0212_fa_0099r.jp2",
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0246_fa_0116r.jp2",
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0247_fa_0116v.jp2",
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0291_fa_0138v.jp2"
+      ]
+    },
+    {
+      "@id": "https://e-editiones.org/range/r3",
+      "@type": "sc:Range",
+      "label": "Vaticanus Latinus 2804",
+      "canvases": [
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2804/Vat.lat.2804_0008_fa_0002r.jp2"
+      ]
+    },
+    {
+      "@id": "https://e-editiones.org/range/r4",
+      "@type": "sc:Range",
+      "label": "Barb. Lat. 37",
+      "canvases": [
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0023_fr_0008r.jp2",
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0037_fr_0015r.jp2"
+      ]
+    },
+    {
+      "@id": "https://e-editiones.org/range/r5",
+      "@type": "sc:Range",
+      "label": "Barb. Lat. 66",
+      "canvases": [
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0009_fa_0001r.jp2",
+        "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0010_fa_0001v.jp2"
+      ]
+    },
+    {
+      "@id": "https://e-editiones.org/range/r6",
+      "@type": "sc:Range",
+      "label": "Barth",
+      "canvases": [
+        "https://e-editiones.org/canvas/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00868",
+        "https://e-editiones.org/canvas/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00869"
+      ]
+    }
   ],
   "sequences": [
     {
@@ -83,9 +83,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0008_fa_0001v.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "vat.lat.2797 1v",
           "width": 1910,
           "height": 2676,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Vat.lat.2797"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -116,9 +128,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0009_fa_0002r.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "vat.lat.2797 2r",
           "width": 1910,
           "height": 2676,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Vat.lat.2797"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -149,9 +173,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0140_fa_0064v.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "vat.lat.2798 64v",
           "width": 1652,
           "height": 2431,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Vat.lat.2798"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -182,9 +218,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0176_fa_0081r.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "vat.lat.2798 81r",
           "width": 1652,
           "height": 2431,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Vat.lat.2798"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -215,9 +263,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0211_fa_0098v.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "vat.lat.2798 98v",
           "width": 1652,
           "height": 2431,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Vat.lat.2798"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -248,9 +308,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0212_fa_0099r.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "vat.lat.2798 99r",
           "width": 1652,
           "height": 2431,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Vat.lat.2798"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -281,9 +353,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0246_fa_0116r.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "vat.lat.2798 116r",
           "width": 1652,
           "height": 2431,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Vat.lat.2798"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -314,9 +398,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0247_fa_0116v.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "vat.lat.2798 116v",
           "width": 1652,
           "height": 2431,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Vat.lat.2798"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -347,9 +443,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0291_fa_0138v.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "vat.lat.2798 138v",
           "width": 1652,
           "height": 2431,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Vat.lat.2798"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -380,9 +488,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2804/Vat.lat.2804_0008_fa_0002r.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "vat.lat.2804 2r",
           "width": 1660,
           "height": 2700,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Vat.lat.2804"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -413,9 +533,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0023_fr_0008r.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "barb.lat.37 8r",
           "width": 1130,
           "height": 1893,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Barb.lat.37"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -446,9 +578,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0037_fr_0015r.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "barb.lat.37 15r",
           "width": 1130,
           "height": 1893,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Barb.lat.37"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -479,9 +623,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0009_fa_0001r.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "barb.lat.66 1r",
           "width": 1500,
           "height": 2118,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Barb.lat.66"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -512,9 +668,21 @@
         {
           "@id": "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0010_fa_0001v.jp2",
           "@type": "sc:Canvas",
-          "label": "Page ",
+          "label": "barb.lat.66 1v",
           "width": 1500,
           "height": 2118,
+          "metadata": [
+            {
+              "label": "Shelfmark",
+              "value": "Barb.lat.66"
+            },
+            {
+              "label": "Language",
+              "value": [
+                "und"
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -545,9 +713,275 @@
         {
           "@id": "https://e-editiones.org/canvas/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00868",
           "@type": "sc:Canvas",
-          "label": "Page 868",
+          "label": "Barth 868",
           "width": 2258,
           "height": 3964,
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Creator",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Urheber",
+                  "@language": "de"
+                },
+                {
+                  "@value": "作者",
+                  "@language": "zh"
+                }
+              ],
+              "value": "<span>Barth, Caspar von -- (GND: <a href='http://d-nb.info/gnd/118657380'>118657380</a>)</span>"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Title",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Titel",
+                  "@language": "de"
+                },
+                {
+                  "@value": "書名",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Casp. Barthi[i] Adversariorum Commentariorum Libri LX: Quibus Ex Universa Antiquitatis Serie, Omnis generis, ad Vicies Octies Centum, Auctorum, plus Centum Quinquaginta Millibus, loci; tam Gentilium quam Christianorum ... illustrantur, constituuntur, emendantur ... ; Eduntur Praeterea Ex Vetustatis Monumentis praeclara hoc opere non pauca ... ; Cum Undecim Indicibus; VII Auctorum, IV Rerum & Verborum"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Creation",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Entstehung",
+                  "@language": "de"
+                },
+                {
+                  "@value": "生成",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Francofurti : Wechel ; Aubry & Schleich<br/>1624"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Extent",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Umfang",
+                  "@language": "de"
+                },
+                {
+                  "@value": "範疇",
+                  "@language": "zh"
+                }
+              ],
+              "value": "[34] Bl., 3031 [i.e. 2931] Sp., [26] Bl."
+            },
+            {
+              "label": [
+                {
+                  "@value": "Language",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Sprache",
+                  "@language": "de"
+                },
+                {
+                  "@value": "語言",
+                  "@language": "zh"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Latin",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Latein",
+                  "@language": "de"
+                },
+                {
+                  "@value": "拉丁语",
+                  "@language": "zh"
+                }
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Note",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Anmerkung",
+                  "@language": "de"
+                },
+                {
+                  "@value": "說明",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Titelblatt in Rot- und Schwarzdruck"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Note",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Anmerkung",
+                  "@language": "de"
+                },
+                {
+                  "@value": "說明",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Vorlageform des Erscheinungsvermerks: Francofvrti, Typis Wechelianis, apud Danielem & Davidem Aubrios, & Clementem Schleichium. M.DC.XXIV."
+            },
+            {
+              "label": [
+                {
+                  "@value": "Note",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Anmerkung",
+                  "@language": "de"
+                },
+                {
+                  "@value": "說明",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Paginierfehler: Bl. Aa5 (668 statt 568); Bl. Ss1 verso (1060 statt 1062 [i.e. 962]); Bl. 6G8 (3030 statt 3028 [i.e. 2930])"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Location",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Standort",
+                  "@language": "de"
+                },
+                {
+                  "@value": "位置",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Regensburg, Staatliche Bibliothek -- 999/2Class.117"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Identifier",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Identifikator",
+                  "@language": "de"
+                },
+                {
+                  "@value": "標識",
+                  "@language": "zh"
+                }
+              ],
+              "value": "BSB-ID 991083151949707356"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Identifier",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Identifikator",
+                  "@language": "de"
+                },
+                {
+                  "@value": "標識",
+                  "@language": "zh"
+                }
+              ],
+              "value": "BV008947877"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Identifier",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Identifikator",
+                  "@language": "de"
+                },
+                {
+                  "@value": "標識",
+                  "@language": "zh"
+                }
+              ],
+              "value": "OCLC 634678385"
+            },
+            {
+              "label": [
+                {
+                  "@value": "URN",
+                  "@language": "en"
+                },
+                {
+                  "@value": "URN",
+                  "@language": "de"
+                },
+                {
+                  "@value": "數位物件標識",
+                  "@language": "zh"
+                }
+              ],
+              "value": "<a href='https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11054218-7'>urn:nbn:de:bvb:12-bsb11054218-7</a>"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Media type",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Medienart",
+                  "@language": "de"
+                },
+                {
+                  "@value": "資料類型",
+                  "@language": "zh"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Book",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Buch",
+                  "@language": "de"
+                },
+                {
+                  "@value": "书",
+                  "@language": "zh"
+                }
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
@@ -578,9 +1012,275 @@
         {
           "@id": "https://e-editiones.org/canvas/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00869",
           "@type": "sc:Canvas",
-          "label": "Page 869",
+          "label": "Barth 869",
           "width": 2305,
           "height": 4023,
+          "metadata": [
+            {
+              "label": [
+                {
+                  "@value": "Creator",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Urheber",
+                  "@language": "de"
+                },
+                {
+                  "@value": "作者",
+                  "@language": "zh"
+                }
+              ],
+              "value": "<span>Barth, Caspar von -- (GND: <a href='http://d-nb.info/gnd/118657380'>118657380</a>)</span>"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Title",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Titel",
+                  "@language": "de"
+                },
+                {
+                  "@value": "書名",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Casp. Barthi[i] Adversariorum Commentariorum Libri LX: Quibus Ex Universa Antiquitatis Serie, Omnis generis, ad Vicies Octies Centum, Auctorum, plus Centum Quinquaginta Millibus, loci; tam Gentilium quam Christianorum ... illustrantur, constituuntur, emendantur ... ; Eduntur Praeterea Ex Vetustatis Monumentis praeclara hoc opere non pauca ... ; Cum Undecim Indicibus; VII Auctorum, IV Rerum & Verborum"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Creation",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Entstehung",
+                  "@language": "de"
+                },
+                {
+                  "@value": "生成",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Francofurti : Wechel ; Aubry & Schleich<br/>1624"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Extent",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Umfang",
+                  "@language": "de"
+                },
+                {
+                  "@value": "範疇",
+                  "@language": "zh"
+                }
+              ],
+              "value": "[34] Bl., 3031 [i.e. 2931] Sp., [26] Bl."
+            },
+            {
+              "label": [
+                {
+                  "@value": "Language",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Sprache",
+                  "@language": "de"
+                },
+                {
+                  "@value": "語言",
+                  "@language": "zh"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Latin",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Latein",
+                  "@language": "de"
+                },
+                {
+                  "@value": "拉丁语",
+                  "@language": "zh"
+                }
+              ]
+            },
+            {
+              "label": [
+                {
+                  "@value": "Note",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Anmerkung",
+                  "@language": "de"
+                },
+                {
+                  "@value": "說明",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Titelblatt in Rot- und Schwarzdruck"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Note",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Anmerkung",
+                  "@language": "de"
+                },
+                {
+                  "@value": "說明",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Vorlageform des Erscheinungsvermerks: Francofvrti, Typis Wechelianis, apud Danielem & Davidem Aubrios, & Clementem Schleichium. M.DC.XXIV."
+            },
+            {
+              "label": [
+                {
+                  "@value": "Note",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Anmerkung",
+                  "@language": "de"
+                },
+                {
+                  "@value": "說明",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Paginierfehler: Bl. Aa5 (668 statt 568); Bl. Ss1 verso (1060 statt 1062 [i.e. 962]); Bl. 6G8 (3030 statt 3028 [i.e. 2930])"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Location",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Standort",
+                  "@language": "de"
+                },
+                {
+                  "@value": "位置",
+                  "@language": "zh"
+                }
+              ],
+              "value": "Regensburg, Staatliche Bibliothek -- 999/2Class.117"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Identifier",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Identifikator",
+                  "@language": "de"
+                },
+                {
+                  "@value": "標識",
+                  "@language": "zh"
+                }
+              ],
+              "value": "BSB-ID 991083151949707356"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Identifier",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Identifikator",
+                  "@language": "de"
+                },
+                {
+                  "@value": "標識",
+                  "@language": "zh"
+                }
+              ],
+              "value": "BV008947877"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Identifier",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Identifikator",
+                  "@language": "de"
+                },
+                {
+                  "@value": "標識",
+                  "@language": "zh"
+                }
+              ],
+              "value": "OCLC 634678385"
+            },
+            {
+              "label": [
+                {
+                  "@value": "URN",
+                  "@language": "en"
+                },
+                {
+                  "@value": "URN",
+                  "@language": "de"
+                },
+                {
+                  "@value": "數位物件標識",
+                  "@language": "zh"
+                }
+              ],
+              "value": "<a href='https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11054218-7'>urn:nbn:de:bvb:12-bsb11054218-7</a>"
+            },
+            {
+              "label": [
+                {
+                  "@value": "Media type",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Medienart",
+                  "@language": "de"
+                },
+                {
+                  "@value": "資料類型",
+                  "@language": "zh"
+                }
+              ],
+              "value": [
+                {
+                  "@value": "Book",
+                  "@language": "en"
+                },
+                {
+                  "@value": "Buch",
+                  "@language": "de"
+                },
+                {
+                  "@value": "书",
+                  "@language": "zh"
+                }
+              ]
+            }
+          ],
           "images": [
             {
               "@type": "oa:Annotation",
