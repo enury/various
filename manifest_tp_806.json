@@ -17,14 +17,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0008_fa_0001v.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0008_fa_0001v.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1910,
                 "height": 2676,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0008_fa_0001v.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0008_fa_0001v.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -50,14 +50,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0009_fa_0002r.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0009_fa_0002r.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1910,
                 "height": 2676,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0009_fa_0002r.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0009_fa_0002r.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -83,14 +83,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0140_fa_0064v.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0140_fa_0064v.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1652,
                 "height": 2431,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0140_fa_0064v.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0140_fa_0064v.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -116,14 +116,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0176_fa_0081r.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0176_fa_0081r.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1652,
                 "height": 2431,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0176_fa_0081r.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0176_fa_0081r.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -149,14 +149,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0211_fa_0098v.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0211_fa_0098v.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1652,
                 "height": 2431,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0211_fa_0098v.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0211_fa_0098v.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -182,14 +182,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0212_fa_0099r.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0212_fa_0099r.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1652,
                 "height": 2431,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0212_fa_0099r.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0212_fa_0099r.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -215,14 +215,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0246_fa_0116r.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0246_fa_0116r.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1652,
                 "height": 2431,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0246_fa_0116r.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0246_fa_0116r.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -248,14 +248,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0247_fa_0116v.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0247_fa_0116v.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1652,
                 "height": 2431,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0247_fa_0116v.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0247_fa_0116v.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -281,14 +281,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0291_fa_0138v.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0291_fa_0138v.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1652,
                 "height": 2431,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0291_fa_0138v.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0291_fa_0138v.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -314,14 +314,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2804/Vat.lat.2804_0008_fa_0002r.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2804/Vat.lat.2804_0008_fa_0002r.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1660,
                 "height": 2700,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2804/Vat.lat.2804_0008_fa_0002r.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2804/Vat.lat.2804_0008_fa_0002r.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -347,14 +347,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0023_fr_0008r.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0023_fr_0008r.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1130,
                 "height": 1893,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0023_fr_0008r.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0023_fr_0008r.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -380,14 +380,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0037_fr_0015r.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0037_fr_0015r.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1130,
                 "height": 1893,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0037_fr_0015r.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0037_fr_0015r.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -413,14 +413,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0009_fa_0001r.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0009_fa_0001r.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1500,
                 "height": 2118,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0009_fa_0001r.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0009_fa_0001r.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -446,14 +446,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0010_fa_0001v.jp2/full/full/0/default.jpg",
+                "@id": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0010_fa_0001v.jp2/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 1500,
                 "height": 2118,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0010_fa_0001v.jp2",
+                  "@id": "https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0010_fa_0001v.jp2",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -479,14 +479,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00868/full/full/0/default.jpg",
+                "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00868/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 2258,
                 "height": 3964,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00868",
+                  "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00868",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -512,14 +512,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00869/full/full/0/default.jpg",
+                "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00869/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 2305,
                 "height": 4023,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00869",
+                  "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00869",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
