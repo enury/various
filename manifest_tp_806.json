@@ -2,6 +2,94 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://e-editiones.org/manifest.json",
   "@type": "sc:Manifest",
+  "structure": [
+    {
+      "@id": "https://e-editiones.org/range/r0",
+      "@type": "sc:Range",
+      "label": "List of Witnesses",
+      "viewingHint": "top",
+      "ranges": [
+        [
+          "https://e-editiones.org/range/r1",
+          "https://e-editiones.org/range/r2",
+          "https://e-editiones.org/range/r3",
+          "https://e-editiones.org/range/r4",
+          "https://e-editiones.org/range/r5",
+          "https://e-editiones.org/range/r6"
+        ]
+      ]
+    },
+    [
+      {
+        "@id": "https://e-editiones.org/range/r1",
+        "@type": "sc:Range",
+        "label": "Vaticanus Latinus 2797",
+        "canvases": [
+          [
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0008_fa_0001v.jp2",
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2797/Vat.lat.2797_0009_fa_0002r.jp2"
+          ]
+        ]
+      },
+      {
+        "@id": "https://e-editiones.org/range/r2",
+        "@type": "sc:Range",
+        "label": "Vaticanus Latinus 2798",
+        "canvases": [
+          [
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0140_fa_0064v.jp2",
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0176_fa_0081r.jp2",
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0211_fa_0098v.jp2",
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0212_fa_0099r.jp2",
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0246_fa_0116r.jp2",
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0247_fa_0116v.jp2",
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2798/Vat.lat.2798_0291_fa_0138v.jp2"
+          ]
+        ]
+      },
+      {
+        "@id": "https://e-editiones.org/range/r3",
+        "@type": "sc:Range",
+        "label": "Vaticanus Latinus 2804",
+        "canvases": [
+          "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Vat.lat.2804/Vat.lat.2804_0008_fa_0002r.jp2"
+        ]
+      },
+      {
+        "@id": "https://e-editiones.org/range/r4",
+        "@type": "sc:Range",
+        "label": "Barb. Lat. 37",
+        "canvases": [
+          [
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0023_fr_0008r.jp2",
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.37/Barb.lat.37_0037_fr_0015r.jp2"
+          ]
+        ]
+      },
+      {
+        "@id": "https://e-editiones.org/range/r5",
+        "@type": "sc:Range",
+        "label": "Barb. Lat. 66",
+        "canvases": [
+          [
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0009_fa_0001r.jp2",
+            "https://e-editiones.org/canvas/https://digi.vatlib.it/iiifimage/MSS_Barb.lat.66/Barb.lat.66_0010_fa_0001v.jp2"
+          ]
+        ]
+      },
+      {
+        "@id": "https://e-editiones.org/range/r6",
+        "@type": "sc:Range",
+        "label": "Barth",
+        "canvases": [
+          [
+            "https://e-editiones.org/canvas/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00868",
+            "https://e-editiones.org/canvas/https://api.digitale-sammlungen.de/iiif/image/v2/bsb11054218_00869"
+          ]
+        ]
+      }
+    ]
+  ],
   "sequences": [
     {
       "@type": "sc:Sequence",
@@ -540,7 +628,7 @@
   "metadata": [
     {
       "label": "Title",
-      "value": "806Argumenta Lucani"
+      "value": "806 Argumenta Lucani"
     },
     {
       "label": "Creator",
@@ -555,7 +643,7 @@
       "value": null
     }
   ],
-  "label": "806Argumenta Lucani",
+  "label": "806 Argumenta Lucani",
   "rendering": [
     {
       "@id": "http://localhost:8080/exist/apps/anth/print/riese_0806.xml",
