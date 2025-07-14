@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://e-editiones.org/manifest.json",
   "@type": "sc:Manifest",
-  "structure": [
+  "structures": [
     {
       "@id": "https://e-editiones.org/range/r0",
       "@type": "sc:Range",
